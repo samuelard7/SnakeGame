@@ -4,8 +4,11 @@ INSIDE main.py
 1. Setting up the screen title and importing all the other modules scoreboard, food, snake.
 2. Creating the objects for the import class.
 3. As the turtle size is 20px by default so considering that:
+   
    (i) Moving the snake inside while loop
+   
    (ii) We will direct the snake head and check for possible collision
+   
    (iii) Three types of collision
    - Collision with food.
    - Collision with tail/ body.
